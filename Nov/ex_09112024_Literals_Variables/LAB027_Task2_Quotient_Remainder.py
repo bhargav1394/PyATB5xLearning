@@ -10,6 +10,7 @@ print("Remainder of a and b is ", int(Remainder))
 
 """
 Output
+
 Enter value of a: 15
 Enter value of b: 2
 Quotient of a and b is  1

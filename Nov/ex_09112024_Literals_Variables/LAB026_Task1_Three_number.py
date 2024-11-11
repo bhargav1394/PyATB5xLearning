@@ -18,6 +18,8 @@ print("Multiplication Of three Value: ", mul)
 print("Division Of three Value: ", div)
 
 """
+Output
+
 Enter Value of First Number 1 :15
 Enter Value of Second Number 2 :5
 Enter Value of Third Number 3 :3
