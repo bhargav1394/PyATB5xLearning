@@ -10,7 +10,7 @@ c = int(input("Enter Value of Third Number 3 :"))
 sum = a + b + c
 sub = a - b - c
 mul = a * b * c
-div = a / b
+div = (a / b) / c
 
 print("Addition Of three Value: ", sum)
 print("Subtraction Of three Value: ", sub)
