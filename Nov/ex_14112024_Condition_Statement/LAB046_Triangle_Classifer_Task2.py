@@ -4,9 +4,9 @@
 # isosceles (exactly two sides are equal), or scalene (no sides are equal).
 # Use an if-else statement to classify the triangle.
 
-Side_1 = float(input("Enter side one"))
-Side_2 = float(input("Enter side second"))
-Side_3 = float(input("Enter side third"))
+Side_1 = int(input("Enter side one"))
+Side_2 = int(input("Enter side second"))
+Side_3 = int(input("Enter side third"))
 
 a = "equilateral"
 b = "isosceles"
