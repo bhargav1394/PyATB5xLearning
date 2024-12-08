@@ -1,0 +1,11 @@
+cites = ("Ahmedabad","Surat","Bilimora","Vadodara")
+print(cites)
+print("Ahmedabad" in cites)
+print("Navsari" in cites)
+
+t = (12,13,18)
+my_list = list(t)
+print(my_list)
+my_list.append(4)
+t =tuple(my_list)
+print(t)
